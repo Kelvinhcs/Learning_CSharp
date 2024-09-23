@@ -3,13 +3,9 @@ class Program
 {
     static void Main()
     {
-        int? nivel = null;
-
-        var valor = nivel.HasValue;
-
-        Console.WriteLine(valor);
-        Console.WriteLine(nivel);
-        Console.WriteLine("End!");
-
+        int[] teste = [56 , 0050, 5680];
+        Console.WriteLine(teste[0]);
+        Console.WriteLine(teste[1]);
+        Console.WriteLine(teste[2]);
     }
 }

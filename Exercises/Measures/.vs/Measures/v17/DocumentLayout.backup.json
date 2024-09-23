@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Exercises\\Measures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD63226-DA44-442B-B003-C4E13C63D184}|Measures\\Measures.csproj|c:\\users\\kelvin\\documents\\repositories\\learning_c#\\exercises\\measures\\measures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD63226-DA44-442B-B003-C4E13C63D184}|Measures\\Measures.csproj|solutionrelative:measures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Exercises\\Measures\\Measures\\Program.cs",
+              "RelativeDocumentMoniker": "Measures\\Program.cs",
+              "ToolTip": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Exercises\\Measures\\Measures\\Program.cs",
+              "RelativeToolTip": "Measures\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:04:09.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
