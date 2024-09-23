@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\bin\Debug\net8.0\ex02.exe
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\bin\Debug\net8.0\ex02.deps.json
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\bin\Debug\net8.0\ex02.runtimeconfig.json
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\bin\Debug\net8.0\ex02.dll
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\bin\Debug\net8.0\ex02.pdb
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\obj\Debug\net8.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\obj\Debug\net8.0\ex02.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\obj\Debug\net8.0\ex02.AssemblyInfo.cs
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\obj\Debug\net8.0\ex02.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\obj\Debug\net8.0\ex02.sourcelink.json
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\obj\Debug\net8.0\ex02.dll
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\obj\Debug\net8.0\refint\ex02.dll
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\obj\Debug\net8.0\ex02.pdb
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\obj\Debug\net8.0\ex02.genruntimeconfig.cache
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Rocketseat\ex02\ex02\obj\Debug\net8.0\ref\ex02.dll
