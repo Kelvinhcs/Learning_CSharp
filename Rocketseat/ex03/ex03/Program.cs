@@ -1,18 +1,12 @@
-﻿namespace ex03;
+﻿using System.Runtime.ExceptionServices;
+
+namespace ex03;
 class Program
 {
     static void Main()
     {
-        double first = 0;
-        string response;
-        do
-        {
-            Console.WriteLine("Please type the first number: ");
-            var response = Console.ReadLine();
-        }
-        while (response.GetType() != )
-        var first = Console.ReadLine();
-        var second = Console.ReadLine();
+        var first = 2.56;
+        var second = 5.36;
         
         double average = (first + second) / 2;
 
@@ -34,4 +28,3 @@ class Program
     }
 }
 
-// UNFINISHED PROJECT, I JUST NEED TO SLEEP IS ALMOST 1 AM SORRY

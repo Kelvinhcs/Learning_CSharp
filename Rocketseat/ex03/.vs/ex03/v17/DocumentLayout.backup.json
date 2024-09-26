@@ -9,11 +9,11 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedHeight": 266,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -22,9 +22,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex03\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
-              "ToolTip": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex03\\ex03\\Program.cs",
-              "RelativeToolTip": "ex03\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAA5wAMAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex03\\ex03\\Program.cs*",
+              "RelativeToolTip": "ex03\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T03:06:06.651Z",
               "EditorCaption": ""
