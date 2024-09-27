@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4285B29F-C4AD-4395-AED2-C14E29FD36A1}|ex06\\ex06.csproj|c:\\users\\kelvin\\documents\\repositories\\learning_c#\\rocketseat\\ex06\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4285B29F-C4AD-4395-AED2-C14E29FD36A1}|ex06\\ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 118,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex06\\ex06\\Program.cs",
+              "RelativeDocumentMoniker": "ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex06\\ex06\\Program.cs*",
+              "RelativeToolTip": "ex06\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T01:03:09.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

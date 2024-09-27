@@ -22,12 +22,22 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex03\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
-              "ToolTip": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex03\\ex03\\Program.cs*",
-              "RelativeToolTip": "ex03\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex03\\ex03\\Program.cs",
+              "RelativeToolTip": "ex03\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T03:06:06.651Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 91,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

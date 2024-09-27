@@ -1,34 +1,22 @@
-﻿namespace ex04;
+﻿using System.Numerics;
+
+namespace ex04;
 class Program
 {
     static void Main()
     {
-        int X = 1;
-        double? first = null;
-        double? second = null;
-        while (X < 3)
+        int total = 0;
+        Console.WriteLine("Type anything here: ");
+        var letters = Console.ReadLine().Trim();
+        
+        foreach(var character in letters)
         {
-            Console.WriteLine($"Type the {X} value: ");
-            var placeholder = Console.ReadLine();
-            if (double.TryParse(placeholder, out var result))
-            {
-                if (X == 1)
-                {
-                    first = result;
-                }
-                else if (X == 2)
-                {
-                    second = result;
-                }
-                X++;
-            }
-            else
-            {
-                Console.WriteLine("Invalid type, try again please...");
+            if (character == ' ')
                 continue;
-            }
+            else
+                total++;
         }
-        Console.WriteLine($"You corectly type those 2 number: {first} and {second}");
+        Console.WriteLine($"We count on total {total} characters.");
     }
 }
 

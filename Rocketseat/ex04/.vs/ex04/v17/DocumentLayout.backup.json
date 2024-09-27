@@ -13,7 +13,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 402,
+          "DockedHeight": 414,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -22,9 +22,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex04\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
-              "ToolTip": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex04\\ex04\\Program.cs",
-              "RelativeToolTip": "ex04\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Kelvin\\Documents\\Repositories\\Learning_C#\\Rocketseat\\ex04\\ex04\\Program.cs*",
+              "RelativeToolTip": "ex04\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T03:22:38.8Z",
               "EditorCaption": ""
@@ -32,7 +32,7 @@
           ]
         },
         {
-          "DockedHeight": 130,
+          "DockedHeight": 118,
           "SelectedChildIndex": -1,
           "Children": [
             {
