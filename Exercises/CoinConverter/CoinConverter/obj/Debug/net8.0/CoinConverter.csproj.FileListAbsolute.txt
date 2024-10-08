@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\bin\Debug\net8.0\CoinConverter.exe
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\bin\Debug\net8.0\CoinConverter.deps.json
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\bin\Debug\net8.0\CoinConverter.runtimeconfig.json
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\bin\Debug\net8.0\CoinConverter.dll
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\bin\Debug\net8.0\CoinConverter.pdb
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\obj\Debug\net8.0\CoinConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\obj\Debug\net8.0\CoinConverter.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\obj\Debug\net8.0\CoinConverter.AssemblyInfo.cs
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\obj\Debug\net8.0\CoinConverter.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\obj\Debug\net8.0\CoinConverter.sourcelink.json
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\obj\Debug\net8.0\CoinConverter.dll
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\obj\Debug\net8.0\refint\CoinConverter.dll
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\obj\Debug\net8.0\CoinConverter.pdb
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\obj\Debug\net8.0\CoinConverter.genruntimeconfig.cache
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\CoinConverter\CoinConverter\obj\Debug\net8.0\ref\CoinConverter.dll
