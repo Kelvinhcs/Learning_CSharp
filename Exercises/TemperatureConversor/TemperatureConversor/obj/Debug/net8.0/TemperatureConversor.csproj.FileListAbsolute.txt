@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\obj\Debug\net8.0\TemperatureConversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\obj\Debug\net8.0\TemperatureConversor.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\obj\Debug\net8.0\TemperatureConversor.AssemblyInfo.cs
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\obj\Debug\net8.0\TemperatureConversor.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\obj\Debug\net8.0\TemperatureConversor.sourcelink.json
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\bin\Debug\net8.0\TemperatureConversor.exe
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\bin\Debug\net8.0\TemperatureConversor.deps.json
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\bin\Debug\net8.0\TemperatureConversor.runtimeconfig.json
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\bin\Debug\net8.0\TemperatureConversor.dll
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\bin\Debug\net8.0\TemperatureConversor.pdb
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\obj\Debug\net8.0\TemperatureConversor.dll
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\obj\Debug\net8.0\refint\TemperatureConversor.dll
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\obj\Debug\net8.0\TemperatureConversor.pdb
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\obj\Debug\net8.0\TemperatureConversor.genruntimeconfig.cache
+C:\Users\Kelvin\Documents\Repositories\Learning_C#\Exercises\TemperatureConversor\TemperatureConversor\obj\Debug\net8.0\ref\TemperatureConversor.dll
